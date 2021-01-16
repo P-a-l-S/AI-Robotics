@@ -11,13 +11,23 @@ Last line contains list of words that need to be fitted to the crossword puzzles
 
 10 
 #-######## 
-#-##-----# 
+
+#-##-----#
+
 #-##-###-# 
+
 #-----##-# 
-#-###-##-# 
-#-###-#### 
+
+#-###-##-#
+
+#-###-####
+
 #####-#### 
+
 ##------## 
+
 #####-#### 
+
 #####-#### 
+
 TERMOS;ISLAM;SELASA;SELAMAT;INI;ATEIS;MATI
